@@ -7,5 +7,5 @@ env:
 install:
   - go get github.com/appc/docker2aci
 
-test:
+script:
   - make alpine-${VERSION}-linux-amd64.aci
