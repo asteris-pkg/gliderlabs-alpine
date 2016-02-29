@@ -1,13 +1,13 @@
-# Gliderlabs Alpine Docker -> rkt
+# Alpine Docker to rkt Conversion
 
 This is a conversion of
-[Gliderlab's Alpine](https://github.com/gliderlabs/docker-alpine) to
+[Gliderlabs' Alpine](https://github.com/gliderlabs/docker-alpine) to
 [rkt](https://coreos.com/rkt/).
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
 
-- [Gliderlabs Alpine Docker -> rkt](#gliderlabs-alpine-docker---rkt)
+- [Alpine Docker to rkt Conversion](#alpine-docker-to-rkt-conversion)
     - [Use](#use)
     - [Hacking](#hacking)
     - [License](#license)
