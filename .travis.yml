@@ -1,0 +1,11 @@
+language: go
+
+env:
+  - VERSION=3.2
+  - VERSION=3.3
+
+install:
+  - go get github.com/appc/docker2aci
+
+test:
+  - make alpine-${VERSION}-linux-amd64.aci
